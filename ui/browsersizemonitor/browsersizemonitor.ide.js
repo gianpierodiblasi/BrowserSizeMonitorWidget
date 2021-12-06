@@ -62,7 +62,7 @@ TW.IDE.Widgets.browsersizemonitor = function () {
           'isBindingTarget': true,
           'defaultValue': "",
           'isEditable': true,
-          'description': 'The height thresholds beyond/before which a resize event must be notified, as a list of comma separated values; ex. "w1,w2,w3"'
+          'description': 'The height thresholds beyond/before which a resize event must be notified, as a list of comma separated values; ex. "h1,h2,h3"'
         }
       }
     };
